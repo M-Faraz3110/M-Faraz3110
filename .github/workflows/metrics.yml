@@ -12,7 +12,7 @@ jobs:
       - name: Generate metrics with Spotify music
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.SPOTIFY_TOKENS }}
           base: ""
           config_timezone: America/New_York
           config_display: columns
