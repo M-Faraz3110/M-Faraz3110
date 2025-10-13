@@ -15,13 +15,13 @@ You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
 ---
 ### 💛 Things I Love Working With
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" alt="Go" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="Python" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="70" height="70"/>
 </p>
 
 ---
