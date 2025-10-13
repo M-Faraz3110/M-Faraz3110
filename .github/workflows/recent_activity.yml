@@ -24,3 +24,4 @@ jobs:
           config_timezone: America/New_York
           filename: metrics-charts.svg
           debug: true
+          plugin_habits_days: 14
