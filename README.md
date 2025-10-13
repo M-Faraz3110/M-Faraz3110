@@ -1,7 +1,7 @@
 # 👋 Helloo, I'm Faraz  
 
 🚀 Currently, I'm pursuing a master's degree in Software Engineering Systems at Northeastern.
-I'm a Backend Engineer passionate about building reliable, scalable systems ranging from API design to distributed architectures. Check out my pinned projects to see what I've been trying to build lately!
+I'm a **Backend Engineer** passionate about building reliable, scalable systems ranging from API design to distributed architectures. Check out my pinned projects to see what I've been trying to build lately!
 
 You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
 
@@ -13,15 +13,15 @@ You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
 ![Top Artists](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-artists.svg)
 
 ---
-### 💛 Things I Love Working With 
+### 💛 Things I Love Working With
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin:0 12px 12px 0; display:inline-block;"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" alt="Go" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rust/rust-original.svg" alt="Rust" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
 
 ---
