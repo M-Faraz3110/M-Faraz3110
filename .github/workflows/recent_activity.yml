@@ -21,7 +21,5 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
-          config_timezone: America/New_York
-          filename: metrics-charts.svg
-          debug: true
-          plugin_habits_days: 14
+          config_timezone: Europe/Paris
+          plugin_habits_skipped: M-Faraz3110
