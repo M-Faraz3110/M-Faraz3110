@@ -1,4 +1,4 @@
-name: Generate Artist Metrics
+name: Generate Language Metrics
 
 on:
   schedule:
