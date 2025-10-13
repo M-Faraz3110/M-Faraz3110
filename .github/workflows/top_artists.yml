@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Generate Artist Metrics
 
 on:
   schedule:
