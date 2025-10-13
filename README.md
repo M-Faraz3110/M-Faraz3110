@@ -4,8 +4,12 @@
 I'm a **Backend Engineer** passionate about building reliable, scalable systems ranging from API design to distributed architectures.  
 
 ---
+### What I'm listening to rn
+#### 🎧 Recently Played
+![Recent Tracks](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-recent.svg)
 
-![Spotify Metrics](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/github-metrics.svg)
+#### 🎤 Top Artists
+![Top Artists](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-artists.svg)
 
 ---
 
