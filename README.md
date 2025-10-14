@@ -9,7 +9,7 @@ You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
 ### What I'm listening to rn
 #### 🎧 Recently Played
 ![Recent Tracks](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-recent.svg)
-#### 🎤 Top Artists
+#### 🎤 Top Artists Lately
 ![Top Artists](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-artists.svg)
 
 ---
