@@ -27,5 +27,4 @@ You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
 ---
 
 ### 📈 GitHub Stats  
-![Faraz's recent activity charts](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-charts.svg)
 ![Top Langs](https://github.com/M-Faraz3110/M-Faraz3110/blob/main/metrics-languages.svg)
