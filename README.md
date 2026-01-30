@@ -4,6 +4,7 @@
 I'm a **Backend Engineer** passionate about building reliable, scalable systems ranging from API design to distributed architectures. Check out my pinned projects to see what I've been trying to build lately!
 
 You can reach me here: [LinkedIn](https://www.linkedin.com/in/faraz551)
+Check out my portfolio: [Portfolio](https://faraz3110-portfolio.vercel.app)
 
 ---
 ### What I'm listening to rn
